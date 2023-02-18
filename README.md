@@ -32,11 +32,6 @@ Without using adb shell, these OEM applications cannot be removed on your phone.
 * Android Downloads
 * Android Browser
 
-### Warning
-
-* Please use it at your own risk
-* Tested on Redmi Note 8 Pro 
-
 ### Pre-Requisites 
 * ADB 
 * Install with:
@@ -63,7 +58,8 @@ sh remove.sh
 
 ## Warning
 
-Use it at your own risk. Tested on Redmi Note 8 Pro.
+* Please use it at your own risk
+* Tested on Redmi Note 8 Pro 
 
 ```
 command to run if program contains helper info
