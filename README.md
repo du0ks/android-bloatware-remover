@@ -5,7 +5,7 @@ This script removes all the OEM Google, Facebook Xiaomi(unneccesary ones) and te
 Without using adb shell, these OEM applications cannot be removed on your phone. Moreover these applications are exploit your privacy. I suggest you to use alternatives from F-Droid.
 
 ## Deleted Applications
-* Telemetry services (MIUI, Google, Facebook,Tencent,WPS)
+* Telemetry services (MIUI, Google, Facebook, Tencent, WPS)
 * Advertisement services
 * Notes
 * MIUI Office Viewer
