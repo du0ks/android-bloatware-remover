@@ -1,6 +1,6 @@
 # Android Bloatware Remover
 
-This script removes all the OEM Google, Facebook Xiaomi(unneccesary ones) and telemetry applications from your phone easily.
+This script removes all the OEM Google, Facebook Xiaomi(unneccesary ones) and telemetry services from your phone easily.
 ## Purpose  
 Without using adb shell, these OEM applications cannot be removed on your phone. Moreover these applications are exploit your privacy. I suggest you to use alternatives from F-Droid.
 
