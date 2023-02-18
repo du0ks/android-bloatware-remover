@@ -40,4 +40,4 @@ adb shell pm disable-user –user 0 com.miui.videoplayer
 adb shell pm disable-user –user 0 com.mi.globalbrowser
 adb shell pm disable-user –user 0 com.mi.globalbrowser
 adb shell pm disable-user –user 0 com.mi.android.globalFileexplorer
-echo Done! 
+echo Done 
