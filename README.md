@@ -37,17 +37,34 @@ Without using adb shell, these OEM applications cannot be removed on your phone.
 * Please use it at your own risk
 * Tested on Redmi Note 8 Pro 
 
+### Pre-Requisites 
+* ADB 
+* Install with:
+
+```
+sudo apt-get install android-tools-adb android-tools-fastboot
+```
+### Make your phone ready
+* Unlock "Developer Options" (You can find guides on internet it is very easy).
+* Select "Developer Options".
+* Find "Android debugging" or "USB Debugging" and activite.
+* Plug your device into your computer.
+
+
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Download the files.
+* Execute this commands on terminal.
 ```
-code blocks for commands
+sudo chmod +x ~/remove.sh
+sh remove.sh
 ```
+* That's all.
 
-## Help
+## Warning
 
-Any advise for common problems or issues.
+Use it at your own risk. Tested on Redmi Note 8 Pro.
+
 ```
 command to run if program contains helper info
 ```
