@@ -6,7 +6,6 @@ adb shell pm uninstall --user 0	com.facebook.services
 adb shell pm uninstall --user 0	com.facebook.system
 adb shell pm uninstall --user 0	com.facebook.appmanager
 adb shell pm uninstall --user 0	com.miui.notes
-adb shell pm uninstall --user 0	com.miui.notes
 adb shell pm uninstall --user 0	com.google.android.music
 adb shell pm uninstall --user 0	com.google.android.apps.tachyon
 adb shell pm uninstall --user 0	com.google.android.youtube
@@ -37,7 +36,6 @@ adb shell pm uninstall --user 0	com.miui.bugreport
 adb shell pm uninstall --user 0	com.android.chrome
 adb shell pm uninstall --user 0	com.google.android.contacts
 adb shell pm disable-user –user 0 com.miui.videoplayer
-adb shell pm disable-user –user 0 com.mi.globalbrowser
 adb shell pm disable-user –user 0 com.mi.globalbrowser
 adb shell pm disable-user –user 0 com.mi.android.globalFileexplorer
 echo Done 
