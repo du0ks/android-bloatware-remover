@@ -34,8 +34,11 @@ Without using adb shell, these OEM applications cannot be removed on your phone.
 
 ### Pre-Requisites 
 * ADB 
-* Install with:
-
+* For Fedora: 
+```
+sudo dnf install android-tools
+```
+* For Debian/Ubuntu based: 
 ```
 sudo apt-get install android-tools-adb android-tools-fastboot
 ```
