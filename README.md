@@ -62,5 +62,5 @@ sh remove.sh
 ## Warning
 
 * Please use it at your own risk
-* Tested on Redmi Note 8 Pro 
+* Tested on Redmi Note 8 Pro and Nothing Phone 1 
 
