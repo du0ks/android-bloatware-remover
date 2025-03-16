@@ -2,7 +2,7 @@
 
 This script removes all the OEM Google, Facebook Xiaomi(unneccesary ones) and telemetry services from your phone easily.
 ## Purpose  
-Without using adb shell, these OEM applications cannot be removed on your phone. Moreover these applications are exploit your privacy. I suggest you to use alternatives from F-Droid.
+Without using adb shell, these OEM applications cannot be removed on your phone. Moreover these applications are exploit your privacy. I strongly suggest you to use alternatives from F-Droid.
 
 ## Deleted Applications
 * Telemetry services (MIUI, Google, Facebook, Tencent, WPS)
@@ -61,6 +61,7 @@ sh remove.sh
 
 ## Warning
 
-* Please use it at your own risk
-* Tested on Redmi Note 8 Pro and Nothing Phone 1 
+* Please use it at your own risk.
+* Tested on Redmi Note 8 Pro, Nothing Phone 1 and Lenovo Tab Plus.
+* Probbaly, this script will work with most of the android devices.
 
